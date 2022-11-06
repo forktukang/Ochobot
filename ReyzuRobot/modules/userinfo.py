@@ -370,7 +370,7 @@ def info(update: Update, context: CallbackContext):
                             InlineKeyboardButton(
                                 "🤖 Ochobot", url="https://t.me/BotOchobot"),
                             InlineKeyboardButton(
-                                "📚 Help", url="https://t.me/ReyzuSupport")
+                                "📚 Help", url="https://t.me/renaldivanhoten")
                         ],
                     ]
                 ),
@@ -388,7 +388,7 @@ def info(update: Update, context: CallbackContext):
                             InlineKeyboardButton(
                                 "🤖 OchoBot", url="https://t.me/BotOchobot"),
                             InlineKeyboardButton(
-                                "📚 Help", url="https://t.me/ReyzuSupport")
+                                "📚 Help", url="https://t.me/renaldivanhoten")
                         ],
                     ]
                 ),
