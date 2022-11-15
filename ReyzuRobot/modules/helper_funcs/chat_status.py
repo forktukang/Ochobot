@@ -178,7 +178,7 @@ def whitelist_plus(func):
         if user and is_whitelist_plus(chat, user.id):
             return func(update, context, *args, **kwargs)
         update.effective_message.reply_text(
-            f"Saluran dukungan @chnyare",
+            f"Hubungi Kami",
         )
 
     return is_whitelist_plus_func
