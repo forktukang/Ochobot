@@ -217,7 +217,7 @@ DEFAULT_GOODBYE_MESSAGES = [
     "Ikuti zebranya",
     "Mengapa begitu sepi?",
     "Iblis yang menyamar",
-    "{firts} pergi ke luar",
+    "{first} pergi ke luar",
     "Goodbye, semoga harimu menyenangkan.",
 ]
 # Line 111 to 152 are references from https://bindingofisaac.fandom.com/wiki/Fortune_Telling_Machine
