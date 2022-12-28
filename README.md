@@ -44,7 +44,7 @@ sudo apt install python3-pip
 ```
 3. Creat Screen
 ```console
-screen -S ReyzuRobot
+screen -S Ochobot
 ```
 4. Clone Github
 ```console
