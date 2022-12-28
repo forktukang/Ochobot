@@ -38,27 +38,31 @@
 ```console
 sudo apt-get update && sudo apt-get upgrade -y
 ```
-2. Creat Screen
+2. Install python3-pip
+```console
+sudo apt install python3-pip
+```
+3. Creat Screen
 ```console
 screen -S ReyzuRobot
 ```
-3. Clone Github
+4. Clone Github
 ```console
 git clone https://github.com/TheReyzu/Ochobot && cd Ochobot
 ```
-4. Install Requirement
+5. Install Requirement
 ```console
 pip3 install -U -r requirements.txt
 ```
-5. Cp Sample.env
+6. Cp Sample.env
 ```console
 cp reyzu.env .env
 ```
-6. ctrl+i (edit env) - ctrl+c (done env) - :wq  (save env)
+7. ctrl+i (edit env) - ctrl+c (done env) - :wq  (save env)
 ```console
 vi .env
 ```
-7. Bash Start
+8. Bash Start
 ```console
 bash start
 ```
