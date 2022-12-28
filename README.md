@@ -44,7 +44,7 @@ screen -S ReyzuRobot
 ```
 3. Clone Github
 ```console
-git clone https://github.com/forktukang/ReyzuRobot && cd ReyzuRobot
+git clone https://github.com/TheReyzu/Ochobot && cd Ochobot
 ```
 4. Install Requirement
 ```console
