@@ -34,27 +34,31 @@
 <br>
     
 ### Tutorial Deploy on VPS
-1. Creat Screen
+1. Upgrade & Update
+```console
+sudo apt-get update && sudo apt-get upgrade -y
+```
+2. Creat Screen
 ```console
 screen -S ReyzuRobot
 ```
-2. Clone Github
+3. Clone Github
 ```console
 git clone https://github.com/forktukang/ReyzuRobot && cd ReyzuRobot
 ```
-3. Install Requirement
+4. Install Requirement
 ```console
 pip3 install -U -r requirements.txt
 ```
-4. Cp Sample.env
+5. Cp Sample.env
 ```console
 cp reyzu.env .env
 ```
-5. ctrl+i (edit env) - ctrl+c (done env) - :wq  (save env)
+6. ctrl+i (edit env) - ctrl+c (done env) - :wq  (save env)
 ```console
 vi .env
 ```
-6. Bash Start
+7. Bash Start
 ```console
 bash start
 ```
