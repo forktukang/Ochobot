@@ -40,7 +40,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 ```
 2. Install python3-pip
 ```console
-sudo apt install python3-pip
+sudo apt install python3-pip -y
 ```
 3. Creat Screen
 ```console
