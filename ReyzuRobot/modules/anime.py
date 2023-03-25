@@ -3,7 +3,6 @@ import html
 import textwrap
 
 import bs4
-import jikanpy
 import requests
 from ReyzuRobot import DEV_USERS, OWNER_ID, DRAGONS, dispatcher
 from ReyzuRobot.modules.disable import DisableAbleCommandHandler
