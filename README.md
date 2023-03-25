@@ -48,7 +48,7 @@ screen -S Ochobot
 ```
 4. Clone Github
 ```console
-git clone https://github.com/TheReyzu/Ochobot && cd Ochobot
+git clone https://github.com/forktukang/Ochobot && cd Ochobot
 ```
 5. Install Requirement
 ```console
